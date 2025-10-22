@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-taiponrock-yosr",
+  "version": "1.0.0",
+  "description": "Node description (displayed as a library or installation description)",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosrmdemagh/node-red-contrib-taiponrock-yosr.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Yosr Mdemagh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yosrmdemagh/node-red-contrib-taiponrock-yosr/issues"
+  },
+  "homepage": "https://github.com/yosrmdemagh/node-red-contrib-taiponrock-yosr#readme",
+  "node-red": {
+    "nodes": {
+      "yosr-mdemagh": "node.js"
+    }
+  }
+}

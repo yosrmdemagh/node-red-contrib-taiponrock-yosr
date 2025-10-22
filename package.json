@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-taiponrock-yosr",
+  "name": "node-red-contrib-taiponrock-yosr",
   "version": "1.0.0",
   "description": "Node description (displayed as a library or installation description)",
   "main": "node.js",
